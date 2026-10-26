@@ -1,0 +1,19 @@
+{
+  "name": "multra",
+  "displayName": "Multra",
+  "version": "0.1.0",
+  "description": "Your organization's approved shared answers on every matching prompt, plus Multra's tools. Multra never sees your subscription login and never sits between you and the model.",
+  "author": {
+    "name": "Multra",
+    "url": "https://multra.ai"
+  },
+  "homepage": "https://multra.ai",
+  "license": "UNLICENSED",
+  "keywords": [
+    "shared-answers",
+    "multra",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://multra.ai/privacy",
+  "termsOfServiceUrl": "https://multra.ai/terms"
+}

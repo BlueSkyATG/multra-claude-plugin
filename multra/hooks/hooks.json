@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "mcp_tool",
+            "server": "plugin:multra:multra",
+            "tool": "prompt_check",
+            "input": { "prompt": "${prompt}" },
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}

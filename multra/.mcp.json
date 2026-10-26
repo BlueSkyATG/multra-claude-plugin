@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "multra": {
+      "type": "http",
+      "url": "https://multra.ai/api/mcp"
+    }
+  }
+}

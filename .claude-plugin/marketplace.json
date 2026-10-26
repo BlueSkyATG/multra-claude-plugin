@@ -1,0 +1,15 @@
+{
+  "name": "multra",
+  "description": "Multra for subscription coding tools: your organization's approved shared answers on every prompt.",
+  "owner": {
+    "name": "Multra",
+    "url": "https://multra.ai"
+  },
+  "plugins": [
+    {
+      "name": "multra",
+      "source": "./multra",
+      "description": "Adds your organization's approved shared answers to matching prompts and connects Multra's tools. Sign in once from /mcp; no keys or tokens."
+    }
+  ]
+}
