@@ -1,6 +1,6 @@
 {
   "name": "multra",
-  "description": "Multra for subscription coding tools: your organization's approved shared answers on every prompt.",
+  "description": "Multra for Claude: your organization's approved answers in the Claude app and Claude Code.",
   "owner": {
     "name": "Multra",
     "url": "https://multra.ai"
@@ -9,7 +9,7 @@
     {
       "name": "multra",
       "source": "./multra",
-      "description": "Adds your organization's approved shared answers to matching prompts and connects Multra's tools. Sign in once from /mcp; no keys or tokens."
+      "description": "Checks your organization's approved answers in Multra before answering business questions (a skill for the Claude app and Claude Code) and adds them to matching Claude Code prompts. Sign in once; no keys or tokens."
     }
   ]
 }
